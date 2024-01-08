@@ -2,7 +2,7 @@
 <div align="center"> <img src="https://github.com/VijayMoirangthem/VijayMoirangthem/blob/main/img.jpg"> </div>
 <h3 align="center">A Passionate Programmer from India</h3>
 
-<p align="left"> <img src="https://github.com/VijayMoirangthem/VijayMoirangthem/blob/main/img2.gif" alt="vijaymoirangthem"/> </p>
+<p align="left"> <img width="400" src="https://github.com/VijayMoirangthem/VijayMoirangthem/blob/main/img2.gif" alt="vijaymoirangthem"/> </p>
 
 - 🔭 I’m currently working on [Online Grocery Store](https://github.com/VijayMoirangthem/OnlineGroceryStore)
 
