@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay Moirangthem</h1>
 <h3 align="center">A Passionate Programmer from India</h3>
-<div align="center"> <img src="https://github.com/VijayMoirangthem/VijayMoirangthem/blob/main/img.jpg"> </div>
+<div align="center"> <img src="https://github.com/VijayMoirangthem/VijayMoirangthem/blob/main/img1.jpg"> </div>
 
 <img width="400" align="right" src="https://github.com/VijayMoirangthem/VijayMoirangthem/blob/main/img2.gif" alt="vijaymoirangthem"/>
 
